@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritabrata Das</h1>
+<h2 align="center">Also known as "Rito" and 'R.D."</h2>
 <h3 align="center">An Open Source Enthusiast and Full Stack Developer</h3>
 
 <div align ="center">
