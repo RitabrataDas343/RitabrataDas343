@@ -16,11 +16,15 @@
 
 - 🤝 I’m looking for help with **any aforesaid projects.**
 
+- 🚀 Event Coordinator & Junior Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
+
+- 🐧 Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/RitabrataDas343](https://github.com/RitabrataDas343)
 
 - 📝 I regularly write articles on [https://dev.to/ritabratadas343](https://dev.to/ritabratadas343)
 
-- 💬 Ask me about **React, Django & Semantic UI**
+- 💬 Ask me about **React, Django & Semantic UI**🏅
 
 - 📫 How to reach me **dasritabrata5@gmail.com**
 
