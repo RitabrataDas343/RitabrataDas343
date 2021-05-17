@@ -7,8 +7,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343" alt="ritabratadas343" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/theskywalker343" target="blank"><img src="https://img.shields.io/twitter/follow/theskywalker343?logo=twitter&style=for-the-badge" alt="theskywalker343" /></a> </p>
-
 - 🔭 I’m currently working on [Database App](https://github.com/RitabrataDas343/Database_App)
 
 - 🌱 I’m currently learning **HTML/CSS/JS/Bootstrap/Django/Node.JS/React.Js**
