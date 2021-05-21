@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=0e75b6&style=flat" alt="ritabratadas343" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343" alt="ritabratadas343" /></a> </p>
+</div>
 
 - 🔭 I’m currently working on [Database App](https://github.com/RitabrataDas343/Database_App)
 
@@ -33,10 +34,7 @@
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<div align ="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ritabratadas343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritabratadas343" height="30" width="40" /></a>
