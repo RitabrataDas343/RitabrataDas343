@@ -8,7 +8,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on [Database App](https://github.com/RitabrataDas343/Database_App)
+- 🔭 I’m currently working on [EDC Website](https://github.com/RitabrataDas343/edcNITD-website) and [InstagramCLone](https://github.com/RitabrataDas343/InstagramClone)
 
 - 🌱 I’m currently learning **HTML/CSS/JS/Bootstrap/Django/Node.JS/React.Js**
 
