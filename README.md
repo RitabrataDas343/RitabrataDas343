@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any Web Development projects.**
 
-- 🤝 Campus Ambassador at **GeeksForGeeks**
+- 🤝 Campus Ambassador at **GeeksForGeeks.**
 
 - 🚀 Event Coordinator & Junior Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
 
@@ -24,7 +24,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ritabratadas343](https://dev.to/ritabratadas343)
 
-- 💬 Ask me about **React, Django & Semantic UI**
+- 💬 Ask me about **Django, Chess and Graphic Designing**
 
 - 📫 How to reach me **dasritabrata5@gmail.com**
 
@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **ISC 2020 Topper from WEST BENGAL**
 
-- 🏅 Winner of **Hack-The-Space and Scale-Up.**
+- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon.
 
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
