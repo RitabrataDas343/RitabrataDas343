@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritabrata Das</h1>
-<h2 align="center">Also known as "Rito" and 'R.D."</h2>
-<h3 align="center">An Open Source Enthusiast and Full Stack Developer</h3>
+<h2 align="center">Also known as "Rito"/"R.D."/"R1t4bR4t4"</h2>
+<h3 align="center">Open Source Fanatic | Full Stack Developer | C.P. Enthusiast | C.T.F Player | Graphic Designer</h3>
 
 <div align ="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=0e75b6&style=flat" alt="ritabratadas343" /> </p>
