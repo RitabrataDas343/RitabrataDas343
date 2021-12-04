@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **ISC 2020 Topper from WEST BENGAL**
 
-- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon.
+- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon**
 
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
@@ -58,4 +58,8 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=github&count_private=true)  
   
+
+<h3 align="left">Github Wrap 2021</h3>
+<p><img align="center" src="https://user-images.githubusercontent.com/76585827/144724205-542772ba-aaa7-4890-9841-9890f7b5cd26.png" alt="TryHackMe" style="height:300px;"/></p>
+
 </div>
