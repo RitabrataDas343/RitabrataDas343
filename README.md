@@ -9,29 +9,29 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on [EDC Website](https://github.com/RitabrataDas343/edcNITD-website) and [Online Treasure Hunt](https://github.com/RitabrataDas343/OnlineTreasureHunt).
+- 🔭 I’m currently working on **[EDC Website](https://github.com/RitabrataDas343/edcNITD-website)** and **[Online Treasure Hunt](https://github.com/RitabrataDas343/OnlineTreasureHunt).**
 
 - 🌱 I’m currently learning **HTML/CSS/JS/Bootstrap/Django/Node.JS/React.Js**.
 
 - 👯 I’m looking to collaborate on **any Web Development projects.**
 
-- 🤝 Campus Ambassador at **GeeksForGeeks.**
+- 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021.
 
-- 🚀 Event Coordinator & Junior Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
+- 🚀 Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
 
 - 🐧 Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/RitabrataDas343)
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/RitabrataDas343).**
 
-- 📝 I regularly write articles on [Dev.To](https://dev.to/ritabratadas343)
+- 📝 I regularly write articles on **[Dev.To](https://dev.to/ritabratadas343).**
 
 - 💬 Ask me about **Django, Chess and Graphic Designing.**
 
 - 📫 How to reach me **dasritabrata5@gmail.com.**
 
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/)
+- 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/).**
 
-- ⚡ Fun fact **ISC 2020 Topper from WEST BENGAL**
+- ⚡ Fun fact ~ **ISC 2020 Topper from WEST BENGAL.**
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon**
 
