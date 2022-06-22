@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **HTML/CSS/JS/Bootstrap/Django/Node.JS/React.Js**.
 
-- 👯 I’m looking to collaborate on **any Web Development projects.**
-
 - 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021.
 
 - 🚀 Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
@@ -27,13 +25,11 @@
 
 - 💬 Ask me about **Django, Chess and Graphic Designing.**
 
-- 📫 How to reach me **dasritabrata5@gmail.com.**
-
 - 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/).**
 
 - ⚡ Fun fact ~ **ISC 2020 Topper from WEST BENGAL.**
 
-- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon**
+- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
 
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
