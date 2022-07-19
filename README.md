@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=0e75b6&style=flat" alt="ritabratadas343" /> 
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343" alt="ritabratadas343" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ritabratadas343" /></a> </p>
 </div>
 
 - 🔭 I’m currently working on **[EDC Website](https://github.com/RitabrataDas343/edcNITD-website)** and **[Online Treasure Hunt](https://github.com/RitabrataDas343/OnlineTreasureHunt).**
