@@ -19,11 +19,11 @@
 
 - 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021.
 
+- 🐧 Former Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
+
 - 🚀 Former Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
 
 - 🎪 Former Senior Fest Coordinator of **Aarohan, 2021-22** and OC member of **E-Summit, 2021-22**.
-
-- 🐧 Former Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/RitabrataDas343).**
 
