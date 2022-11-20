@@ -33,6 +33,8 @@
 
 - ⚡ Fun fact ~ **ISC 2020 State Topper from West Bengal.**
 
+- 📟 Open Source Contributor in **Script Winter of Code, GirlScript Winter of Contributing** and **Social Summer of Code.**
+
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
 
 <div align ="center">
