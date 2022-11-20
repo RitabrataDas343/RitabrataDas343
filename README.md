@@ -9,25 +9,29 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **[EDC Website](https://github.com/RitabrataDas343/edcNITD-website)** and **[Online Treasure Hunt](https://github.com/RitabrataDas343/OnlineTreasureHunt).**
+- 🔭 I’m currently working on **[Novu](https://github.com/RitabrataDas343/novu)**.
 
-- 🌱 I’m currently learning **HTML/CSS/JS/Bootstrap/Django/Node.JS/React.Js**.
+- 🌱 I’m currently learning **NextJS, AngularJS** and **Golang**.
+
+- 💬 Ask me about **CTF, Chess and Graphic Designing.**
+
+- 🤖 ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
 
 - 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021.
 
-- 🚀 Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
+- 🚀 Former Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
 
-- 🐧 Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
+- 🎪 Former Senior Fest Coordinator of **Aarohan, 2021-22** and OC member of **E-Summit, 2021-22**.
+
+- 🐧 Former Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/RitabrataDas343).**
 
 - 📝 I regularly write articles on **[Dev.To](https://dev.to/ritabratadas343).**
 
-- 💬 Ask me about **Django, Chess and Graphic Designing.**
-
 - 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/).**
 
-- ⚡ Fun fact ~ **ISC 2020 Topper from WEST BENGAL.**
+- ⚡ Fun fact ~ **ISC 2020 State Topper from West Bengal.**
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
 
@@ -145,9 +149,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&" alt="ritabratadas343" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=github&count_private=true)  
-  
-
-<h3 align="left">Github Wrap 2021</h3>
-<p><img align="center" src="https://user-images.githubusercontent.com/76585827/144724205-542772ba-aaa7-4890-9841-9890f7b5cd26.png" alt="TryHackMe" style="height:300px;"/></p>
 
 </div>
