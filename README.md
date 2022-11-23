@@ -141,15 +141,16 @@
                                                                                  
 </p>
   
-<h3 align="left">My Languages</h3>
+<h3 align="left">My Most Used Languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabratadas343&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritabratadas343" /></p>
 
 <h3 align="left">My GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritabratadas343&theme=radical&locale=en" alt="ritabratadas343" /></p>
 
-<h3 align="left">My Contributions:</h3>
+<h3 align="left">My Total Contributions:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=react-dark&count_private=true)  
+<h3 align="left">My Contribution Graph:</h3>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=react-dark&count_private=true" alt="ritabratadas343" /></p>
 
 </div>
