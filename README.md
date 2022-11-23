@@ -150,6 +150,6 @@
 <h3 align="left">My Contributions:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=cobalt&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=react-dark&count_private=true)  
 
 </div>
