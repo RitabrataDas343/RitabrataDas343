@@ -141,7 +141,7 @@
                                                                                  
 </p>
   
-<h3 align="left">My Most Used Languages</h3>
+<h3 align="left">My Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabratadas343&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritabratadas343" /></p>
 
 <h3 align="left">My GitHub Stats:</h3>
