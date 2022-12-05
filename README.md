@@ -151,6 +151,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
 
 <h3 align="left">My Contribution Graph:</h3>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=RitabrataDas343&theme=react-dark&count_private=true" alt="ritabratadas343" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.ritabratadas1.repl.co/graph?username=RitabrataDas343&theme=react-dark&count_private=true" alt="ritabratadas343" /></p>
 
+  
 </div>
