@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritabrata Das</h1>
-<h2 align="center">Also known as "Rito"/"R.D."/"R1t4bR4t4"</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=27&color=04BDF7&center=true&repeat=false&width=240&lines=Also+known+as" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=1000&pause=200&color=20F700&center=true&width=160&lines=Rito;R.D.;R1t4bR4t4" alt="Typing SVG" /></h2>
 <h3 align="center">Open Source Fanatic | Full Stack Developer | C.P. Enthusiast | C.T.F Hacker | Graphic Designer</h3>
 
 <div align ="center">
