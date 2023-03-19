@@ -17,7 +17,7 @@
 
 - 🤖 ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
 
-- 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021.
+- 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021, **Skillenza** - 2023 and **HackerEarth** - 2023.
 
 - 🐧 Former Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
 
