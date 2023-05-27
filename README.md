@@ -9,11 +9,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **[Novu](https://github.com/RitabrataDas343/novu)**.
+- 🔭 I’m currently working on **[Novu](https://github.com/RitabrataDas343/novu)** and **[ADKit](https://github.com/RitabrataDas343/app-ADKit-meity)**.
 
 - 🌱 I’m currently learning **NextJS, AngularJS** and **Golang**.
 
 - 💬 Ask me about **CTF, Chess** and **Graphic Designing.**
+
+- 💬 CLBT/CCIBT Intern Analyst at **Wells Fargo.**
 
 - 🤖 ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
 
