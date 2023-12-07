@@ -9,15 +9,15 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **[Novu](https://github.com/RitabrataDas343/novu)** and **[ADKit](https://github.com/RitabrataDas343/app-ADKit-meity)**.
+- 🔭 I’m currently working on **[ADKit](https://github.com/iamrickk/app-ADKit-meity)**.
 
 - 🌱 I’m currently learning **NextJS, AngularJS** and **Golang**.
 
 - 💬 Ask me about **CTF, Chess** and **Graphic Designing.**
 
-- 💬 CLBT/CCIBT Intern Analyst at **Wells Fargo.**
+- 💬 Former CLBT/CCIBT Intern Analyst at **Wells Fargo.**
 
-- 🤖 ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
+- 🤖 Former ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
 
 - 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021, **Skillenza** - 2023 and **HackerEarth** - 2023.
 
@@ -35,7 +35,9 @@
 
 - ⚡ Fun fact ~ **ISC 2020 State Topper from West Bengal.**
 
-- 📟 Open Source Contributor in **Script Winter of Code, GirlScript Winter of Contributing** and **Social Summer of Code.**
+- 📟 Open Source Contributor at **Script Winter of Code, GirlScript Winter of Contributing** and **Social Summer of Code.**
+
+- ✍️ Mentor at **Social Winter of Code** and **GirlScript Summer of Code.**
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
 
