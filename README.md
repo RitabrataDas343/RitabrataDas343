@@ -11,11 +11,13 @@
 
 - 🔭 I’m currently working on **[ADKit](https://github.com/iamrickk/app-ADKit-meity)**.
 
-- 🌱 I’m currently learning **NextJS, AngularJS** and **Golang**.
+- 🌱 I’m currently learning **NextJS, TypeScript** and **Golang**.
 
 - 💬 Ask me about **CTF, Chess** and **Graphic Designing.**
 
-- 💬 Former CLBT/CCIBT Intern Analyst at **Wells Fargo.**
+- 🌌 SDE Intern at **Amazon.**
+
+- 🌉 Former CLBT/CCIBT Intern Analyst at **Wells Fargo.**
 
 - 🤖 Former ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
 
