@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **CTF, Chess** and **Graphic Designing.**
 
-- 🌌 SDE Intern at **Amazon.**
+- 🌌 Software Development Engineer Intern at **Amazon.**
 
 - 🌉 Former CLBT/CCIBT Intern Analyst at **Wells Fargo.**
 
