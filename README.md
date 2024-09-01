@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="ritabratadas343" /></a> </p>
 </div>
 
-- 🔭 I’m currently working on **[ADKit](https://github.com/iamrickk/app-ADKit-meity)**.
+- 🔭 I’m currently working as CFCLS/CCIBT Program Associate at **Wells Fargo.**
 
 - 🌱 I’m currently learning **NextJS, TypeScript** and **Golang**.
 
