@@ -3,6 +3,14 @@
 <h3 align="center">Open Source Fanatic • Full Stack Developer • C.P. Enthusiast • C.T.F Hacker • Graphic Designer</h3>
 
 <div align ="center">
+<h3 align="left">Support me at:</h3>
+</div>
+
+[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rito343)
+[![github-sponsor](https://github.com/user-attachments/assets/ec1d3614-2202-4acb-a1fa-b6a789f6ec60)<svg xmlns="http://www.w3.org/2000/svg" width="168.46666717529297" height="35" viewBox="0 0 168.46666717529297 35"><rect width="76.93333435058594" height="35" fill="#000000"/><rect x="76.93333435058594" width="91.53333282470703" height="35" fill="#f82f4c"/></svg>](https://github.com/sponsors/RitabrataDas343)
+
+
+<div align ="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=5D3FD3&style=flat" alt="ritabratadas343" /> 
 </p>
 
@@ -42,14 +50,6 @@
 - ✍️ Mentor at **Social Winter of Code** and **GirlScript Summer of Code.**
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
-
-<div align ="center">
-<h3 align="left">Support me at:</h3>
-</div>
-
-[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rito343)
-[![github-sponsor](https://github.com/user-attachments/assets/ec1d3614-2202-4acb-a1fa-b6a789f6ec60)<svg xmlns="http://www.w3.org/2000/svg" width="168.46666717529297" height="35" viewBox="0 0 168.46666717529297 35"><rect width="76.93333435058594" height="35" fill="#000000"/><rect x="76.93333435058594" width="91.53333282470703" height="35" fill="#f82f4c"/></svg>](https://github.com/sponsors/RitabrataDas343)
-
 
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
