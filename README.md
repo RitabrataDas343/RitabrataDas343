@@ -10,7 +10,7 @@
 [![github-sponsor](https://github.com/user-attachments/assets/ec1d3614-2202-4acb-a1fa-b6a789f6ec60)<svg xmlns="http://www.w3.org/2000/svg" width="168.46666717529297" height="35" viewBox="0 0 168.46666717529297 35"><rect width="76.93333435058594" height="35" fill="#000000"/><rect x="76.93333435058594" width="91.53333282470703" height="35" fill="#f82f4c"/></svg>](https://github.com/sponsors/RitabrataDas343)
 
 
-<div align ="center">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=5D3FD3&style=flat" alt="ritabratadas343" /> 
 </p>
 
