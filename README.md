@@ -146,12 +146,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="jekyll" width="40" height="40"/>
                                                                                  
 </p>
-  
-<h3 align="left">My Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabratadas343&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="ritabratadas343" /></p>
-
-<h3 align="left">My GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritabratadas343&theme=radical&locale=en" alt="ritabratadas343" /></p>
 
 <h3 align="left">My Total Contributions:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
