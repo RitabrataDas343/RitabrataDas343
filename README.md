@@ -48,7 +48,7 @@
 
 - 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
 
-<div align ="center">
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/hunbe.sdre.9" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
