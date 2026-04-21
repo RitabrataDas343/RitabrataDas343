@@ -4,12 +4,11 @@
 
 <div align ="center">
 <h3 align="left">Support me at:</h3>
-</div>
 
 [![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rito343)
 [![github-sponsor](https://github.com/user-attachments/assets/ec1d3614-2202-4acb-a1fa-b6a789f6ec60)<svg xmlns="http://www.w3.org/2000/svg" width="168.46666717529297" height="35" viewBox="0 0 168.46666717529297 35"><rect width="76.93333435058594" height="35" fill="#000000"/><rect x="76.93333435058594" width="91.53333282470703" height="35" fill="#f82f4c"/></svg>](https://github.com/sponsors/RitabrataDas343)
 
-
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=5D3FD3&style=flat" alt="ritabratadas343" /> 
 </p>
@@ -50,7 +49,9 @@
 
 <div>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<div>
+<table>
+<tr>
 <a href="https://www.facebook.com/hunbe.sdre.9" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="30" /></a>
 <a href="https://www.instagram.com/t.h.e.s.k.y.w.a.l.k.e.r/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" height="30" width="30" /></a>
 <a href="https://twitter.com/theskywalker343" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="theskywalker343" height="30" width="30" /></a>
@@ -58,7 +59,10 @@
 <a href="https://dev.to/ritabratadas343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritabratadas343" height="30" width="40" /></a>
 <a href="https://github.com/RitabrataDas343" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="theskywalker343" height="30" width="30" /></a>
 <a href="https://gitlab.com/ritabratadas343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="theskywalker343" height="30" width="30" /></a>
-</p>
+</tr>
+</table>
+
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -148,6 +152,5 @@
 </p>
 
 <h3 align="left">My Total Contributions:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
-  
-</div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
+
