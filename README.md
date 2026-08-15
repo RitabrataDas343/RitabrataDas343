@@ -125,22 +125,9 @@ fun_fact: "ISC 2020 State Topper, West Bengal 🏅"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritabratadas343&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabratadas343&layout=compact&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritabratadas343&theme=react-dark&hide_border=true" width="49%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=radical&no-frame=true&row=1&column=7" width="100%"/>
-
-</div>
-
-<!--
-  Snake contribution graph — renders once you add the GitHub Actions workflow
-  (Platane/snk) to this profile repo and let it run once.
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/RitabrataDas343/RitabrataDas343/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
 ---
