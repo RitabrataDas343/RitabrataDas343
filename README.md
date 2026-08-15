@@ -46,7 +46,7 @@ fun_fact: "ISC 2020 State Topper, West Bengal 🏅"
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌍 Community & Leadership</b></summary>
 <br/>
 
@@ -62,7 +62,7 @@ fun_fact: "ISC 2020 State Topper, West Bengal 🏅"
 
 </details>
 
-<details>
+<details open>
 <summary><b>🏆 Achievements</b></summary>
 <br/>
 
