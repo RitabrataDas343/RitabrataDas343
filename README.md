@@ -1,52 +1,167 @@
-<h1 align="center">Hi 👋, I'm Ritabrata Das</h1>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=27&color=04BDF7&center=true&repeat=false&width=240&lines=Also+known+as" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=1000&pause=200&color=20F700&center=true&width=160&lines=Rito;R.D.;R1t4bR4t4" alt="Typing SVG" /></h2>
-<h3 align="center">Open Source Fanatic • Full Stack Developer • C.P. Enthusiast • C.T.F Hacker • Graphic Designer</h3>
+<div align="center">
 
-<div align ="center">
-<h3 align="left">Support me at:</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I%27m%20Ritabrata%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CTF%20Hacker%20%7C%20Graphic%20Designer&descAlignY=52&descSize=18" width="100%"/>
 
-[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rito343)
-[![github-sponsor](https://github.com/user-attachments/assets/ec1d3614-2202-4acb-a1fa-b6a789f6ec60)<svg xmlns="http://www.w3.org/2000/svg" width="168.46666717529297" height="35" viewBox="0 0 168.46666717529297 35"><rect width="76.93333435058594" height="35" fill="#000000"/><rect x="76.93333435058594" width="91.53333282470703" height="35" fill="#f82f4c"/></svg>](https://github.com/sponsors/RitabrataDas343)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=200&size=26&color=04BDF7&center=true&repeat=false&width=260&lines=Also+known+as" alt="Typing SVG"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1200&pause=300&color=20F700&center=true&width=180&lines=Rito;R.D.;R1t4bR4t4" alt="Typing SVG"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20Views&color=5D3FD3&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RitabrataDas343?label=Followers&style=for-the-badge&color=04BDF7&logo=github)
+![Stars](https://img.shields.io/github/stars/RitabrataDas343?label=Stars&style=for-the-badge&color=20F700&logo=github)
 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritabratadas343&label=Profile%20views&color=5D3FD3&style=flat" alt="ritabratadas343" /> 
-</p>
+---
 
-- 🔭 I’m currently working as CLCFS/CCIBT Software Engineer at **Wells Fargo.**
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **NextJS, TypeScript** and **Golang**.
+```yaml
+name: Ritabrata Das
+role: Software Engineer @ Wells Fargo (CLCFS / CCIBT)
+currently_learning: [Next.js, TypeScript, Golang]
+ask_me_about: [CTF, Chess, Graphic Designing]
+fun_fact: "ISC 2020 State Topper, West Bengal 🏅"
+```
 
-- 💬 Ask me about **CTF, Chess** and **Graphic Designing.**
+- 🔭 Currently working as a **CLCFS / CCIBT Software Engineer** at **Wells Fargo**
+- 🌱 Currently leveling up in **Next.js**, **TypeScript** and **Golang**
+- 💬 Happy to talk **CTF**, **Chess** or **Graphic Design** any day
+- 📝 I write dev articles on **[Dev.to](https://dev.to/ritabratadas343)**
+- 📄 Full career history on **[LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/)**
+- 👨‍💻 All my builds live on **[GitHub](https://github.com/RitabrataDas343)**
 
-- 🌌 Former Software Development Engineer Intern at **Amazon.**
+<br/>
 
-- 🌉 Former CLBT/CCIBT Intern Analyst at **Wells Fargo.**
+<details open>
+<summary><b>🚀 Experience</b></summary>
+<br/>
 
-- 🤖 Former ML/AI Lead at **Google Developers Students Clubs, NIT Durgapur.**
+| Role | Organization |
+|---|---|
+| 💼 CLCFS / CCIBT Software Engineer | **Wells Fargo** |
+| 🌌 Software Development Engineer Intern | **Amazon** |
+| 🌉 CLBT / CCIBT Intern Analyst | **Wells Fargo** |
+| 🤖 ML / AI Lead | **Google Developer Student Clubs, NIT Durgapur** |
 
-- 🤝 Former Campus Ambassador at **GeeksForGeeks** - 2021, **Skillenza** - 2023 and **HackerEarth** - 2023.
+</details>
 
-- 🐧 Former Web Developer & Graphic Designer at **GNU/Linux Users' Group, NIT Durgapur.**
+<details>
+<summary><b>🌍 Community & Leadership</b></summary>
+<br/>
 
-- 🚀 Former Senior Coordinator & Web Developer at **Entrepreneurship Development Cell, NIT Durgapur.**
+| Role | Organization |
+|---|---|
+| 🐧 Web Developer & Graphic Designer | **GNU/Linux Users' Group, NIT Durgapur** |
+| 🚀 Senior Coordinator & Web Developer | **Entrepreneurship Development Cell, NIT Durgapur** |
+| 🎪 Senior Fest Coordinator, Aarohan 2021–22 | — |
+| 🎪 OC Member, E-Summit 2021–22 | — |
+| 🤝 Campus Ambassador | **GeeksforGeeks** ('21) · **Skillenza** ('23) · **HackerEarth** ('23) |
+| 📟 Open Source Contributor | **Script Winter of Code** · **GirlScript Winter of Contributing** · **Social Summer of Code** |
+| ✍️ Mentor | **Social Winter of Code** · **GirlScript Summer of Code** |
 
-- 🎪 Former Senior Fest Coordinator of **Aarohan, 2021-22** and OC member of **E-Summit, 2021-22**.
+</details>
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/RitabrataDas343).**
+<details>
+<summary><b>🏆 Achievements</b></summary>
+<br/>
 
-- 📝 I regularly write articles on **[Dev.To](https://dev.to/ritabratadas343).**
+- 🥇 Winner — **Hack-The-Space**
+- 🥇 Winner — **Scale-Up**
+- 🎖️ Top 15 — **DoubleSlash Hackathon**
+- 🎖️ Top 11 — **IBM ReImagine Hackathon**
+- 🏅 **ISC 2020 State Topper**, West Bengal
 
-- 📄 Know about my experiences at **[LinkedIn](https://www.linkedin.com/in/ritabrata-das-6b0a40202/).**
+</details>
 
-- ⚡ Fun fact ~ **ISC 2020 State Topper from West Bengal.**
+---
 
-- 📟 Open Source Contributor at **Script Winter of Code, GirlScript Winter of Contributing** and **Social Summer of Code.**
+### 🛠️ Tech Stack
 
-- ✍️ Mentor at **Social Winter of Code** and **GirlScript Summer of Code.**
+**Languages**
 
-- 🏅 Winner of **Hack-The-Space and Scale-Up.** Top 15 in **DoubleSlash** Hackathon. Top 11 in **IBM ReImagine Hackathon.**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<h3 align="left">My Total Contributions:</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical" alt="ritabratadas343" /></p>
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ritabratadas343&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritabratadas343&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritabratadas343&theme=react-dark&hide_border=true" width="49%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritabratadas343&theme=radical&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+<!--
+  Snake contribution graph — renders once you add the GitHub Actions workflow
+  (Platane/snk) to this profile repo and let it run once.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/RitabrataDas343/RitabrataDas343/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritabrata-das-6b0a40202/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ritabratadas343)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RitabrataDas343)
+
+</div>
+
+### ☕ Support Me
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/rito343)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/RitabrataDas343)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
