@@ -126,7 +126,6 @@ fun_fact: "ISC 2020 State Topper, West Bengal 🏅"
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritabratadas343&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritabratadas343&theme=react-dark&hide_border=true" width="49%"/>
 
 </div>
 
